@@ -1,0 +1,24 @@
+
+.nvlinks{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 10px;
+    width:90%;
+    text-align: center;
+}
+.Link {
+    text-decoration: none;
+    color: Black;
+    font-size: 12px;
+    margin-left: 10px;
+    height: fit-content;
+    padding: 5px;
+    border: 1px solid white;
+    width:100px;
+}
+
+.Link:hover{
+    color: black;
+    background-color: blanchedalmond;
+    border: black;
+}
